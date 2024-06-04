@@ -1,1 +1,1 @@
-alert("cross-site load")
+alert("This is an alert!");
